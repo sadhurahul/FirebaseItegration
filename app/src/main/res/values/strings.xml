@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFireBase</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="email">hint</string>
+</resources>
